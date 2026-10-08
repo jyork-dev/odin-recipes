@@ -16,6 +16,7 @@ img {
 }
 
 .recipe-list {
+    padding: 0;
     text-align: center;
     list-style: none;
 }
